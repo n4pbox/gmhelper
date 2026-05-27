@@ -3,7 +3,7 @@
 # GMHelper CLI - Old & Modern Version!
 # ==========================================
 
-GMOD_BIN="/run/media/nap/5c9fedcc-bafb-4b4d-8f71-77262f56b6e8/SteamLibrary/steamapps/common/GarrysMod/bin/linux64"
+GMOD_BIN="/your/path/here"
 GMAD="$GMOD_BIN/gmad"
 GMPUBLISH="$GMOD_BIN/gmpublish"
 
