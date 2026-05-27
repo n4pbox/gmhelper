@@ -20,7 +20,7 @@ You also need a working installation of **Garry's Mod** on your machine, since t
 Open `gmhelper.sh` and update the path at the top of the file to point to your own Garry's Mod `bin/linux64` folder:
 
 ```bash
-GMOD_BIN="/run/media/nap/5c9fedcc-bafb-4b4d-8f71-77262f56b6e8/SteamLibrary/steamapps/common/GarrysMod/bin/linux64"
+GMOD_BIN="/your/path/here"
 ```
 
 The two variables derived from it are:
