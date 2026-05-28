@@ -2,6 +2,8 @@
 
 > Lightweight automation utility for **Garry's Mod** addon developers — a smart wrapper around `gmad` and `gmpublish` for packing, extracting, downloading, and managing Workshop content.
 
+## ⚠️⚠️ THIS SCRIPT WAS **NOT** MADE BY ME BUT BY AI AND IS AN ONGOING EXPERIMENT WHICH I WOULD LIKE TO SHARE. THEREFORE, IT SHALL NOT BE USED RELIABLY. YOU WERE ADVISED ⚠️⚠️
+
 ---
 
 ## ✨ Features
