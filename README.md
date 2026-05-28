@@ -1,5 +1,5 @@
 # GMHelper CLI (BETA INDEV - NOT FOR GENERAL USE)
-# THIS SCRIPT WAS **NOT** MADE BY ME BUT BY AI AND IS AN ONGOING EXPERIMENT. THEREFORE, IT SHALL NOT BE USED RELIABLY. YOU WERE ADVISED
+# ⚠️⚠️ THIS SCRIPT WAS **NOT** MADE BY ME BUT BY AI AND IS AN ONGOING EXPERIMENT WHICH I WOULD LIKE TO SHARE. THEREFORE, IT SHALL NOT BE USED RELIABLY. YOU WERE ADVISED ⚠️⚠️
 
 A simple Bash CLI tool to manage Garry's Mod addons from the terminal. It wraps `gmad` and `gmpublish` into an interactive menu so you don't have to remember every flag and path while working with Workshop addons — downloading, extracting, packing, publishing, and updating, all in one place.
 
