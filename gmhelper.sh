@@ -9,7 +9,7 @@ CONFIG_FILE="$SCRIPT_DIR/config.conf"
 LOG_FILE="$SCRIPT_DIR/gmhelper.log"
 
 # --- Defaults (overridden by config.conf if present) ---
-GMOD_BIN="/run/media/nap/5c9fedcc-bafb-4b4d-8f71-77262f56b6e8/SteamLibrary/steamapps/common/GarrysMod/bin/linux64"
+GMOD_BIN="/your/path/here"
 WORK_FOLDER=""
 
 # --- Load External Config ---
